@@ -1,0 +1,7 @@
+[Oct 1 03:19:53] 
+[Oct 1 03:19:53] [PHP ERR][WARN] MSG:filesize(): stat failed for 20200207_rakanrela_d6aabc5e380d2d659474_20200925024159_archive.zip [CODE:2|FILE:C:\Users\ASUS TUF\Desktop\work\skedu_elearning\eClass\eClass\public\files\material\1601362800installer.php|LINE:119]
+[Oct 1 03:19:53] ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.24==
+[Oct 1 03:19:53] ----------------------------------------------------
+[Oct 1 03:19:53] Installer bootstrap start
+[Oct 1 03:19:53] Using archive C:/Users/ASUS TUF/Desktop/work/skedu_elearning/eClass/eClass/public/files/material/20200207_rakanrela_d6aabc5e380d2d659474_20200925024159_archive.zip
+[Oct 1 03:19:53] [ERROR] Archive file not found!
